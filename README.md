@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Game dev enthusiast from China, but for some reason, currently studying Visual Computing and Robotics at Imperial College London...
+
 <!--
 **fceek/fceek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
