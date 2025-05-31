@@ -28,3 +28,6 @@ I'm a game developer and creative technologist from China, recently graduated fr
 - **Portfolio:** [fceek.co.uk](http://fceek.co.uk)
 - **GitHub Organisation:** [HeartPhase](https://github.com/HeartPhase)
 - **Blog:** [fceek.github.io](https://fceek.github.io/) (Currently inactive due to a busy schedule)
+
+---
+*"All play means something"*   -   *Homo Ludens: A Study of the Play Element in Culture*
